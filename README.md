@@ -1,3 +1,4 @@
 # comp3111-lab-demo
-Ho Ming Tak 20366266
+Name: Ho Ming Tak
+Student ID: 20366266
 ![Screenshot](screenshot.png)
